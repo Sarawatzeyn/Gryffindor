@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-04T22:16:20 EDT" name="Default suite" finished-at="2023-10-04T22:16:26 EDT" duration-ms="6140">
+  <suite started-at="2023-10-06T23:19:03 EDT" name="Default suite" finished-at="2023-10-06T23:19:07 EDT" duration-ms="3590">
     <groups>
     </groups>
-    <test started-at="2023-10-04T22:16:20 EDT" name="Default test" finished-at="2023-10-04T22:16:26 EDT" duration-ms="6140">
-      <class name="com.facebook1.POM_PageFactory_LoginTestWithPagetory.LoginTestWithPageFactory">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:com.facebook1.POM_PageFactory_LoginTestWithPagetory.LoginTestWithPageFactory@34a3d150]" started-at="2023-10-04T22:16:20 EDT" name="openApp" finished-at="2023-10-04T22:16:24 EDT" duration-ms="3617" status="PASS">
+    <test started-at="2023-10-06T23:19:03 EDT" name="Default test" finished-at="2023-10-06T23:19:07 EDT" duration-ms="3590">
+      <class name="com.facebook1.baseLoginTest.ClientTest">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.facebook1.baseLoginTest.ClientTest@34a3d150]" started-at="2023-10-06T23:19:03 EDT" name="openApp" finished-at="2023-10-06T23:19:06 EDT" duration-ms="2955" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="boundaryLoginTest()[pri:0, instance:com.facebook1.POM_PageFactory_LoginTestWithPagetory.LoginTestWithPageFactory@34a3d150]" started-at="2023-10-04T22:16:24 EDT" name="boundaryLoginTest" finished-at="2023-10-04T22:16:24 EDT" duration-ms="249" status="PASS">
+        <test-method signature="validLoginTest()[pri:0, instance:com.facebook1.baseLoginTest.ClientTest@34a3d150]" started-at="2023-10-06T23:19:06 EDT" name="validLoginTest" finished-at="2023-10-06T23:19:07 EDT" duration-ms="347" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- boundaryLoginTest -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.facebook1.POM_PageFactory_LoginTestWithPagetory.LoginTestWithPageFactory@34a3d150]" started-at="2023-10-04T22:16:24 EDT" name="closeApp" finished-at="2023-10-04T22:16:24 EDT" duration-ms="193" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeApp -->
-        <test-method is-config="true" signature="openApp()[pri:0, instance:com.facebook1.POM_PageFactory_LoginTestWithPagetory.LoginTestWithPageFactory@34a3d150]" started-at="2023-10-04T22:16:24 EDT" name="openApp" finished-at="2023-10-04T22:16:26 EDT" duration-ms="1597" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openApp -->
-        <test-method signature="invalidLoginTest()[pri:0, instance:com.facebook1.POM_PageFactory_LoginTestWithPagetory.LoginTestWithPageFactory@34a3d150]" started-at="2023-10-04T22:16:26 EDT" name="invalidLoginTest" finished-at="2023-10-04T22:16:26 EDT" duration-ms="219" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- invalidLoginTest -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.facebook1.POM_PageFactory_LoginTestWithPagetory.LoginTestWithPageFactory@34a3d150]" started-at="2023-10-04T22:16:26 EDT" name="closeApp" finished-at="2023-10-04T22:16:26 EDT" duration-ms="212" status="PASS">
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.facebook1.baseLoginTest.ClientTest@34a3d150]" started-at="2023-10-06T23:19:07 EDT" name="closeApp" finished-at="2023-10-06T23:19:07 EDT" duration-ms="246" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
-      </class> <!-- com.facebook1.POM_PageFactory_LoginTestWithPagetory.LoginTestWithPageFactory -->
+      </class> <!-- com.facebook1.baseLoginTest.ClientTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

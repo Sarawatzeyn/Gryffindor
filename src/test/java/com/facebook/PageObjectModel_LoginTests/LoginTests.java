@@ -1,4 +1,4 @@
-package com.facebook1.PageObjectModel_LoginTests;
+package com.facebook.PageObjectModel_LoginTests;
 
 import java.time.Duration;
 
@@ -8,7 +8,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import com.facebook1.PageObjectModel_LoginPage.LoginPage;
+import com.facebook.PageObjectModel_LoginPage.LoginPage;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

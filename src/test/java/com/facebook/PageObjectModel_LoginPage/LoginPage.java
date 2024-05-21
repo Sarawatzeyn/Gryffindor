@@ -1,4 +1,4 @@
-package com.facebook1.PageObjectModel_LoginPage;
+package com.facebook.PageObjectModel_LoginPage;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

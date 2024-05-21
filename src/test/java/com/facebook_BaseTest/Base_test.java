@@ -1,4 +1,4 @@
-package com.facebook1_BaseTest;
+package com.facebook_BaseTest;
 
 import java.time.Duration;
 

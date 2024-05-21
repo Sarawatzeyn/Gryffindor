@@ -1,4 +1,4 @@
-package com.facebook1.POM_PageFactory_LoginWithPageFactory;
+package com.facebook.POM_PageFactory_LoginWithPageFactory;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

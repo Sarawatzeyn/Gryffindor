@@ -1,4 +1,4 @@
-package com.facebook1.PageFactory_LogintestName;
+package com.facebook.PageFactory_LogintestName;
 
 import java.time.Duration;
 

@@ -1,4 +1,4 @@
-package com.facebook1.POM_PageFactory_LoginTestWithPagetory;
+package com.facebook.POM_PageFactory_LoginTestWithPagetory;
 
 import java.time.Duration;
 
@@ -8,7 +8,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import com.facebook1.POM_PageFactory_LoginWithPageFactory.LoginPageWithPageFactory;
+import com.facebook.POM_PageFactory_LoginWithPageFactory.LoginPageWithPageFactory;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
